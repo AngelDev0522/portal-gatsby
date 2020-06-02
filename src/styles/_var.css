@@ -1,0 +1,22 @@
+:root {
+    --font-family: Roboto;
+
+    --header-color: #354F5B;
+    
+    --black-text-color: #0B1A21;
+
+    --job-section-background: #f5fcff;
+
+    --blue-main-color: #0076AD;
+    --blue-main-hover-color: #0076ADDD;
+
+    --blue-dark-color: #003954;
+
+    --green-main-color: #4AB971;
+    --green-main-hover-color: #4AB971DD;
+
+    --orange-main-color: #FF8424;
+
+    --tertiary-main-color: #354F5B;
+
+}
